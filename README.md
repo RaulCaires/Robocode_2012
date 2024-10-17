@@ -2,11 +2,11 @@ UNIVERSIDADE PAULISTA UNIP
 
 ROBOCODE – ROBOT “SENTUFUMO”
 
-Arthur Gonçalves
-Carlos Eduardo Lovato Daré
-Douglas Carrasco
-Marco Tulio Querino
-Raul de Caires Ferreira
+- Arthur Gonçalves
+- Carlos Eduardo Lovato Daré
+- Douglas Carrasco
+- Marco Tulio Querino
+- Raul de Caires Ferreira
 
 Novembro de 2012
 São Paulo
